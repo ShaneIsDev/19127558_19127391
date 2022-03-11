@@ -1,0 +1,6 @@
+Michal Zalewski đã phát hiện một lỗi nghiêm trọng trong hàm prescan() của các phiên bản sendmail trước 8.12.10. Khai thác thành công lỗi này có thể dẫn đến tràn bộ đệm trên heap hoặc stack. Mặc dù chưa có mã khai thác lỗi lưu hành, lỗ hổng được xem là có thể khai thác trên máy cục bộ và có thể từ xa.
+Cập nhật bản sửa lỗi tại:http://sendmail.org/parse8.359.2.8.html
+Hoặc nâng cấp lên phiên bản sendmail 8.10.12
+ftp://ftp.sendmail.org/pub/sendmail/sendmail.8.12.10.tar.gzftp://ftp.sendmail.org/pub/sendmail/sendmail.8.12.10.tar.gz.sigftp://ftp.sendmail.org/pub/sendmail/sendmail.8.12.10.tar.Zftp://ftp.sendmail.org/pub/sendmail/sendmail.8.12.10.tar.Z.sig
+Khuyến nghị của Sendmail có thể xem tại: http://sendmail.org/8.12.10.html
+Nếu sử dụng phần mềm sendmail được đóng gói theo các bản phân phối Unix/Linux, nên cập nhật ngay các bản nâng cấp do nhà sản xuất cung cấp.

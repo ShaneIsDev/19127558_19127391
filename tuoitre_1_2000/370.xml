@@ -1,0 +1,6 @@
+Lỗi bảo mật nghiêm trọng nhất nằm trong bộ công cụ Visual Basic for application
+TT - 5 lỗi bảo mật mới đã được Microsoft công bố hôm thứ tư, 3-9. Và phần lớn những lỗi bảo mật này thuộc về bộ phần mềm Microsoft office. Lỗ hổng bảo mật nặng nề nhất nằm trong bộ công cụ Visual basics for application, công cụ lập trình trong Office và bộ phần mềm Microsoft office solution. Thông qua lỗ hổng này, một hacker có thể kích họat một đọan mã ở một mục tiêu chọn sẵn.
+Hai lỗi khác được cho là rất nghiêm trọng nằm chương trình sọan thảo văn bản Microsoft word và bộ chuyển đổi tập tin sang WordPerfect.
+Một lỗi khác nằm trong phần mềm napshot viewer của phần mềm cơ sở dữ liệu Microsoft Access được đánh giá là ít nhgiêm trọng hơn. Các lỗ hổng này cho phép hacker xâm nhập máy tính qua một văn bản đang mở hay viết một đoạn mã HTML gây rối có thể được kích họat bất cứ lúc nào bởi người sử dụng.
+Lỗi cuối cùng được đánh giá là không gây tác hại gì nghiêm trọng là một lỗ hổng trong chương trình NetBIOS giúp hacker xem trộm thông tin trên Windows hay máy chủ. Theo các chuyên gia Microsoft, điều tồi tệ nhất xảy ra là việc hacker có thể lấy được những thông tin "rời rạc và ngẫu nhiên" trên bộ nhớ hệ thống.
+Để vá các lỗ hổng trên, bạn hãy truy cập vào trang webwindowsupdate.microsoft.com.

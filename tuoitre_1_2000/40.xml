@@ -1,0 +1,22 @@
+Sử dụng Google một cách hiệu quả Phóng to
+Tìm kiếm giản đơn
+Để có được kết quả chính xác hoặc gần mới những gì mình cần tìm, bạn phải chọn từ khóa phù hợp và có liên quan với nội dung cần tìm, càng chính xác càng tốt. Từ khóa có thể là từ mà có thể xuất hiện trên website bạn cần tìm.
+VD muốn tìm thông tin về Picasso, hãy nhập vào "Picasso" (không có ngoặc kép) thay vì nhập "painter" (họa sĩ); muốn tìm trang web có diễn đàn về máy tính, hãy nhập "computer forum" thay vì nhập "the place to discuss about computer".
+Bạn có nhập chữ Unicode vào field tìm kiếm của Google để tìm các thông tin theo ngôn ngữ của bạn đang dùng.
+Nhập từ ngắn gọn, ko cần các liên từ "and". Google tự động tìm các trang web có tất cả các từ khoá bạn nhập vào, bạn ko cần thêm từ "and" vào giữa các từ khóa. VD tìm các thông tin liên quan đến "computer" và "forum", bạn chỉ cần nhập "computer forum" thay vì là "computer and forum".
+Google tìm kiếm không phân biệt chữ hoa và thường.
+Tìm theo các danh mục có sẵn: bạn có thể tìm thông tin theo các danh mục Google phân định sẵn tại http://directory.google.com
+Tìm kiếm nâng cao
+Google sẽ loại bỏ các từ thông dụng trong các từ khóa, vd như "where", "how", "a", "the"... để tăng tốc độ tìm kiếm. Do đó nếu bạn muốn kết quả có các từ này, hãy thêm khoảng trắng và dấu cộng " +" trước từ khóa đó, vd: "computer +how". Nếu bạn muốn tìm chính xác 1 chuỗi nào đó, hãy thêm ngoặc kép cho đoạn đó, vd: "where are you"
+Tương tự trên khi bạn muốn tìm kiếm 1 trang web nào đó theo từ khóa yêu cầu nhưng lại ko muốn xuất hiện từ khóa nào đó, bạn có thể dùng dấu trừ " -". VD bạn muốn tìm các diễn đàn máy tính nhưng không có nói về hacking, bạn có thể dùng từ khóa "computer forum -hack"
+Tìm kiếm với "OR": Google cho phép dùng từ khóa "OR" (chữ hoa) giữa các từ khóa cần tìm để tìm các thông tin xuất hiện ít nhất 1 từ khoá. VD tìm nội dung "computer OR forum", kết quả sẽ cho ra các trang có ít nhất 1 từ khoá "computer" hoặc "forum" hoặc có cả hai.
+Tìm giới hạn theo tên miền (domain name): Nếu bạn muốn tìm thông tin trong 1 website cụ thể nào đó, hãy dùng từ khóa "site:URL". VD tìm thông tin về chương trình CuteFTP trong trang www.download.com , bạn nhập "cuteftp :www.download.com"
+Tìm kiếm các trang thông tin có liên kết đến trang bạn cần, bạn dùng từ khóa "link:URL". VD bạn tìm các trang web có liên kết đến trang www.microsoft.com , bạn nhập như sau: "link:www.microsoft.com"
+Tìm thông tin trong các tệp dữ liệu theo kiểu tệp cụ thể, bạn dùng từ khóa "filetype:phần_mở_rộng". VD muốn tìm các thông tin computer trong các file có kiểu PDF, bạn nhập như sau: "computer filetype:pdf"
+Từ khóa "related:URL cho phép tìm các trang web có thông tin tương tự 1 trang web nào đó. VD tìm trang tương tự trang www.google.com , bạn nhập từ khóa "related:www.google.com"
+Từ khóa "info:URL" sẽ tìm các thông tin liên quan về 1 trang web nào đó. VD bạn nhập "info:www.google.com" sẽ xuất các thông tin về trang www.google.com
+Từ khóa "allintitle:từ_khóa" sẽ tìm các trang web có tiêu đề được chỉ ra sau dấu 2 chấm. VD muốn tìm các trang web có tiêu đề computer, bạn dùng "allintitle:computer"
+Từ khóa "intitle:từ_khóa_1 từ_khóa_2..." sẽ tìm các trang web có tiêu đề bắt buộc có chứa từ_khóa_1 và nội dung hoặc tiêu đề có chứa từ_khóa_2. VD "intitle:google search" sẽ tìm các trang web có tiêu đề chứa từ "google" và nội dung có từ "search"
+Từ khóa "allinurl:các_từ_khóa" sẽ tìm các trang web có địa chỉ URL bắt buộc chứa các từ khóa chỉ định. VD bạn tìm "allinurl:Tuổi Trẻ" sẽ cho ra các trang web có địa chỉ chứa từ "Tuổi Trẻ"
+Từ khóa "inurl:từ_khóa_1 từ_khóa_2..." sẽ tìm các trang web có địa chỉ URL bắt buộc chứa từ_khóa_1 và nội dung trang web chứa từ_khóa_2. VD bạn tìm "inurl: Tuổi Trẻ news" sẽ cho ra các trang web có địa chỉ chứa từ "Tuổi Trẻ " và chỉ đến phần "news".
+Bạn có thể tìm hiểu thêm thông tin tìm kiếm tạiđây.

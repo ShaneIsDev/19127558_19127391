@@ -1,0 +1,6 @@
+Tin tặc có thể chạy các đoạn mã nguy hiểm trên hệ thống của người dùng.
+Hai lỗ hổng bảo mật nghiêm trọng trong phần mềm mã nguồn mở quản lý e-mail Sendmail và chương trình OpenSSH cho phép hacker thực hiện các cuộc tấn công từ chối dịch vụ và có thể chạy các đoạn mã nguy hiểm.
+Theo bản thông báo của Trung tâm an ninh CERT, khiếm khuyết tràn bộ đệm ảnh hưởng tới các phiên bản OpenSSH trước 3.7.1. Nó xảy ra trong cách mà phần mềm lưu trữ các gói dữ liệu. Cisco cho biết sản phẩm của hãng bị ảnh hưởng bởi lỗi này, trong khi Red Hat, Sun Microsystems và IBM chưa khẳng định chắc chắn.
+Lỗ hổng Sendmail ảnh hưởng tới các phiên bản trước 8.12.10. Do đó, sản phẩm của HP, IBM và Red Hat đều bị ảnh hưởng.
+CERT cho biết chương trình Sendmail và OpenSSH được sử dụng rộng rãi trong các doanh nghiệp lớn, do đó rất thu hút sự chú ý của hacker. Trung tâm này khuyết cáo người dùng hãy tải ngay bản sửa lỗi để bít lỗ thủng.
+Thông tin chi tiết có thể tham khảotại đây.

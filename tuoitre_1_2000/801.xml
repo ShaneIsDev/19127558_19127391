@@ -1,0 +1,8 @@
+Bạn tiến hành làm theo các bước sau đây:
+-Vào menu Start - Run, gõ "regedit" để chạy Registry Editor.
+- Sau đó duyệt đến: HKEY_CURRENT_USER\Software\Yahoo\View, ở key View có value con là Tabs kiểu chuỗi, hãy nhấp đúp để edit chuỗi này, thêm vào cuối chuỗi 1 chuỗi sau: ",tto".
+-Tiếp theo trong key View còn có nhiều Content Tab được tên tên là "YMSGR_...", bạn nhấp chuột phải lên View, chọn New\Key, gõ vào tên là "tto", và tạo các value mới cho key tto tương tự như ở 1 key bất kì, ví dụ như:
+. content url: địa chỉ website mà bạn muốn xem, gõ vào www.tuoitre.com.vn
+. display name: tên cho content tab, gõ vào "TTO".
+Ngoài ra còn nhiều value nữa, bạn hãy tự mày mò thêm nhé.
+- Đóng registry editor, restart Yahoo Messenger bạn sẽ thây có thêm 1 content tab chỉ đến Tuổi Trẻ Online, sướng nha !

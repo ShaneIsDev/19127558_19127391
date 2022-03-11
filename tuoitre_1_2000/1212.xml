@@ -1,0 +1,39 @@
+Giao diện đồ họa fvwm2
+Mẹ tôi đã sử dụng máy tính được vài năm với một chiếc máy tính chạy hệ điều hành DOS được cài đặt để tự động chạy chương trình soạn thảo văn bản mỗi khi bà bật máy. Không có chương trình nào khác được cài đặt và chức năng của chiếc máy tính đó chỉ là một chiếc máy chữ loại xịn không hơn không kém.
+Bây giờ, khi những đứa con của bà đi lập nghiệp và sinh sống ở mọi nơi, mẹ muốn dùng Internet để xem những bức hình mới nhất chụp những đứa cháu của mình và gửi thư điện tử.
+Anhchị tôi bèn mua cho bà một chiếc máy tính chạy hệ điều hành Windows98 vì nó có thể là một hệ thống "dễ dùng nhất" và hầu như chắc chắn rằng nó là chọn lựa tốt nhất cho bà. Sau một vài buổi học với nhiều buổi tối cùng những cuộc điện thoại "cầu cứu", ý tưởng về chiếc máy tính cho mẹ dường như thất bại.
+Đơn giản là có quá nhiều trục trặc
+-Nhấp đúp chuột (double click):nó có vẻ cực kỳ khó đối với những người cao tuổi trong việc này. Windows dùng động tác này để khởi động một chương trình hay mở một file. Điều này áp dụng cho người cao tuổi thật không dễ. Nguyên nhân của vấn đề có vẻ như mẹ đã di chuyển con chuột trong khi nháy đúp. Việc thiết lập tốc độ nháy chuột không mang lại kết quả gì khả quan hơn.
+-Phiên làm việc: Windows ghi lại trạng thái phiên làm việc khi bạn thoát ra. Khi bạn vô tình thay đổi các thiết lập của màn hình nền hoặc gỡ bỏ các biểu tượng, nó không phục hồi chúng cho bạn khi bạn chạy Windows vào những lần kế tiếp. Và nếu bạn trót làm lộn xộn màn hình nền thì những thứ rác rưởi sẽ nằm chình ình ở đó.
+-Thư mục cá nhân: Windows không có khái niệm gì về thư mục cá nhân. Bạn có thể lưu giữ các tệp tin ở mọi nơi mọi chỗ, bạn không biết cái mình cần hiện đang nằm ở xó xỉnh nào và thường là các tệp tin quan trọng "biến mất".
+-Chỉ có giao diện đồ hoạ: Việc giúp đỡ người dùng từ xa qua điện thoại là rất khó đối với các ứng dụng dùng giao diện đồ họa vì người trợ giúp không thể nhìn thấy trên màn hình của người sử dụng đang có những gì.
+Một đĩa CD với các ảnh chụp đang được xem bằng gqview và bạn có thể thấy lfwmail trong cửa sổ trình duyệt.
+Linux trong tầm tay
+Khi mọi người đã hết hy vọng, tôi đề nghị : hay thử càiLinuxcho mẹ dùng.
+Linux cho ta chọn lựa các màn hình nền và trình quản lý cửa sổ khác nhau, có thể đặt sẵn cấu hình cho những thứ mà ta không thể làm được trong các hệ điều hành khác. Chỉ cần bỏ một chút công sức là được.
+Tôi quyết định dùngfvwm2(http://www.plig.org/xwinman/fvwm.html) để quản lý màn hình và cửa sổ đồ họa. Những người sử dụng Linux nhiều năm trước khi cóKDE(www.kde.org) vàGNOME(www.gnome.org) đều biết đến fvwm. Nó được dùng rất nhiều trên các máy tính chạy Linux từ năm 1996 với những ưu điểm như:
+- Sử dụng rất ít dung lượng bộ nhớ đĩa
+- Không có khái niệm "phiên làm việc" ( khi bạn thoát ra và quay lại, mọi thứ trong môi trường làm việc vẫn như mới )
+- Ngoài ra fvwm cực kỳ dễ cấu hình theo ý muốn thông qua một tập tin thiết lập cấu hình duy nhất.
+Tôi thiết lập một thực đơn ngang (menu bar) để mẹ có thể làm những thao tác mẹ cần như :
+-Kết nối vào Internet
+-Nhận hoặc gửi e-mail
+-Khởi động chương trình soạn văn bản
+-Khởi động trình duyệt web
+-Khởi động chương trình tính toán nhân, chia, cộng, trừ
+-Mở ổ đĩa CD-ROM hình ảnh và tự chạy chương trìnhgqview(http://gqview.sf.net) để xem ảnh
+Tôi đã thiết lập fvwm2 ở chế độ mà mẹ không bao giờ cần nháy đúp. Tôi đặt chế độ nháy chuột đơn để chạy ứng dụng. Vấn đề với việc nháy đúp chuột được giải quyết nhanh chóng!
+Với trình soạn thảo văn bản, tôi chọnTed(http://www.nllgg.nl/Ted/). Nó đơn giản nhưng có thể làm mọi thứ mà mẹ cần cho việc viết một bức thư. Một chương trình với ít các tính năng phức tạp sẽ tốt hơn cho me.
+Trên máy tính, tôi làm một trang web nhỏ cho mẹ, khi mẹ chạy trình duyệt webMozilla Firebird(http://www.mozilla.org/projects/firebird/) thì nó sẽ tự động nạp trang web này. Trang này chứa các tài liệu và các hướng dẫn ngắn, rõ ràng về cách sử dụng một vài ứng dụng khác cho mẹ.
+Để dùng e-mail tôi chọnlfwmail(http://home.linuxfocus.org/~guido/). Nó cực kỳ đơn giản nhưng lại có đầy đủ các tính năng và tương thích với các chương trình e-mail tuân theo chuẩn MIME. Một điều quan trọng là: nó không có các thư mục, nơi mà bạn có thể làm mất các e-mail của mình khi bạn đặt chúng nhầm chỗ. Tất cả cả email đều được liệt kê và xếp thứ tự theo thời gian. Đó chính là những gì mà mẹ thực sự cần.
+lfwmail là một chương trình e-mail trên nền web nhưng tôi đã cài đặt máy chủ webApache(http://http.apache.org) trên máy để chạy nó và chương trình sẽ hoạt động như một chương trình email chạy trên giao diện web cục bộ thông qua trình duyệt web.
+Kết nối mạng
+Ý tưởng cho chiếc máy tính này là mọi thứ sẽ được sử dụng một cách dễ dàng. Tôi đã sử dụnggpppwrap(http://home.linuxfocus.org/~guido/) như một ứng dụng để thực hiện kết nối Internet thông qua modem. Nhà cung cấp dịch vụ Internet đã thiết lập sẵn gpppwrap chỉ với hai nút bấm : "go online" hoặc "go offline". Tôi đã thay đổi để gpppwrap hiển thị địa chỉ IP của máy tính mỗi khi kết nối vào Internet. Tại sao lại như vậy? Để hỗ trợ từ xa, thưa các bạn!
+Hỗ trợ từ xa
+Bạn đừng bao giờ tin vào những ai nói rằng các ứng dụng với giao diện đồ họa là trực quan hơn. Các ứng dụng loại này mở ra nhiều hộp thoại phiền nhiễu và bạn không thực sự thấy được cái gì đang ở trên màn hình của người sử dụng đang cần bạn giúp và đôi khi nó là một trở ngại cho việc tìm hiểu trạng thái của ứng dụng đang chạy.
+Bạn sẽ không gặp phải loại vấn đề như thế khi làm việc trên dòng lệnh (command line). Để đọc vài lệnh qua điện thoại là cực kỳ dễ dàng và người khác chỉ đơn giản là gõ lại chúng cho đúng. Sự cố đã được khắc phục. Như vậy, đây là một điều tốt để chạyxterm(http://dickey.his.com/xterm/xterm.html). Với Linux bạn có thể sửa hầu hết các sự cố với giao diện dòng lệnh.
+Để bổ sung thêm, tôi đã cài đặtsshd(http://www.openssh.org/). Nếu mẹ có thể nói cho tôi địa chỉ IP của máy tính khi mẹ kết nối vào mạng thì tôi có thể truy xuất tới máy tính của mẹ và thiết lập cấu hình hay cài đặt phần mềm cho mẹ. Điều này quả thật rất tuyệt.
+Lời kết
+Tôi luôn biết rằng : Linux là một hệ điều hành thân thiện với người dùng mà bạn có thể sử dụng. Hiện nay điều đó đã được minh chứng rõ ràng. Bạn có thể thiết lập một máy tính với mọi yêu cầu của người sử dụng. Đó thật sự là một điều rất tốt cho các công ty, các trường học, các câu lạc bộ,...
+Một người quản trị hệ thống giỏi có thể làm tăng hiệu suất làm việc bằng cách cài đặt các máy tính phù hợp với các nhu cầu của người sử dụng.
+Giờ đây, mẹ đã có một chiếc máy tính và dùng nó để làm việc. Trong một vài tháng mẹ sẽ trở thành một người sử dụng thành thạo và lúc đó tôi sẽ bổ sung thêm nhiều phần mềm khác cho mẹ.

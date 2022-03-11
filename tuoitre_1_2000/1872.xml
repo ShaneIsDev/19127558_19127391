@@ -1,0 +1,7 @@
+Người dùng hãy bít lỗi để đề phòng virus mới
+TTO - Cho đến chiều ngày 19/9, đã có khoảng 800.000 máy tính trên thế giới bị nhiễm loại sâu máy tính mới W32.Swen (hay Gibe). Virus này mang nội dung về một dạng phần mềm bảo mật của Microsoft, nhưng thực chất nhằm vô hiệu hoá chức năng của các phần mềm an ninh cài đặt trên máy nạn nhân đang chạy.
+Công ty bảo mật F-Secure đánh giá mức độ nguy hiểm của Swen ở cấp độ 2, có thể lây lan trên diện rộng. Tuy nhiên, tại Việt Nam, ông Nguyễn Tử Quảng, Giám đốc Trung tâm an ninh mạng BKIS, cho biết, đến nay Swen vẫn chưa xuất hiện.
+Swen lợi dụng một lỗ hổng đã tồn tại 2 năm nay trong trình duyệt Internet Explorer để lây nhiễm vào những máy tính không cài bản bản sửa lỗi.
+Mã của Swen được nhúng vào một file đính kèm e-mail, mang nội dụng về bản vá cho lỗ hổng IE, Outlook và Outlook Expresss, để lừa người sử dụng mở chương trình và cài bản update bằng cách click “Yes” hoặc “No”. Dù sự lựa chọn của người sử dụng là gì, mã virus vẫn được cài vào máy và sau đó, sẽ vô hiệu hoá các địa chỉ trên máy tính của nạn nhân.
+Sâu cũng có thể lây nhiễm qua đường chat và mạng ngang hàng Kazaa, cũng như lây nhiễm qua mạng LAN.
+Các công ty phần mềm diệt virus như F-Secure, Network Associates và Symantec đều ghi nhận sự giống nhau về phương thức tấn công của Swen với một loại sâu xuất hiện hồi tháng 2 có tên W32.Gibe. Điểm khác biệt là virus mới không sử dụng Visual Basic mà được viết bằng ngôn ngữ C, phức tạp hơn.

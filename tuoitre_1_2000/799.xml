@@ -1,0 +1,4 @@
+Tiến hành như sau:
+-Start - Run - gpedit.msc.
+-Thông qua trình quản lý này bạn tha hồ khám phá. Để hiển thị thông tin trước khi Logon vào máy, bạn vào tiếp Window Settings-Security Settings-Local Pollicies-Security Option- Interactive Logon Message Text for users Attempting to log on.
+-Gõ vào thông tin bạn cần hiển thị, ví dụ như: Welcome to my PC !

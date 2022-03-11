@@ -1,0 +1,28 @@
+Tóm tắt các sự kiện
+SCO giữ quyền sở hữu hệ điều hành Unix Sytem V, nền tảng của khá nhiều phiên bản hệ điều hành thông dụng khác như AIX của IBM, và Solaris của hãng Sun Microsystems. Công ty này cho rằng IBM đã sao chép thẳng mã nguồn của Unix vào nhân Linux phiên bản 2.4 nhằm cải thiện khả năng đa xử lý của mình, đây là một trong những tính năng sống còn của một hệ điều hành hiện đại.
+Vào tháng 6, SCO thu hồi giấy phép sử dụng Unix của IBM và đòi công ty này đền bù 3 tỉ USD vì đã vi phạm hợp đồng. IBM cho rằng giấy phép của mình là vĩnh viễn và không thể thu hồi, hơn nữa, IBM cho rằng mình đã trả tiền đầy đủ. SCO tuyên bố những người sử dụng hệ điều hành AIX đang vi phạm bản quyền của họ.
+Điều này có ý nghĩa như thế nào đối với người sử dụng Linux ?
+SCO phát biểu rằng những công ty đang chạy hệ điều hành Linux phải mua giấy phép sử dụng bởi vì trong đó chứa những đoạn mã thuộc quyền sở hữu của họ. Tuần vừa rồi, Darl McBride, giám đốc điều hành SCO đưa ra bản giá như sau: $699 cho mỗi bộ vi xử lí từ nay cho đến tháng 10, sau đó sẽ nâng lên $1399.
+Andy Butler, nhà nghiên cứu tại tập đoàn Gartner, cho rằng SCO hơi lạc quan. "Người ta sẽ không dại gì chi tiền khi chưa có một quyết định của luật pháp đảm bảo cho những điều SCO đưa ra", Andy nói.
+SCO đúng ?
+Không ai có thể kiểm tra điều này. SCO từ chối cung cấp mã nguồn, họ cho rằng làm như thế thì sẽ có nhiều vụ sao chép lậu hơn nữa. Một nhóm các chuyên gia được SCO cho phép xem xét sơ qua các chứng cứ của hãng này, tuy nhiên ý kiến của những người này thì trái ngược nhau. McBride tuyên bố là Linux sao chép mã nguồn của Unix theo 'từng dòng một, kể cả những ghi chú'.
+Các nhà sản xuất Linux đáp trả như thế nào ?
+IBM đưa ra luận cứ cho rằng vì SCO phân phối một phiên bản Linux theo giấy phép GPL của cộng đồng mã nguồn mở do đó SCO không thể sở hữu bất cứ phần nào của Linux. IBM cũng cho rằng SCO đã vi phạm 4 bằng sáng chế của mình.
+Red Hat thì buộc SCO phải hoặc đưa ra bằng chứng rõ ràng hoặc rút lại lời buộc tội.
+"Chúng tôi đang trên đà chiến thắng", Matthew Szulik, giám đốc điều hành Red Hat tự tin nói.
+Cộng đồng mã nguồn mở nói gì ?
+OSDL(Open Source Development Lad), nơi cha đẻ Linux Linus Tovalds đang làm việc, cho rằng SCO không có quyền gì để thu tiền bản quyền của người sử dụng.
+SCO phản kháng lại và cho rằng: "Bản quyền chắc chắn sẽ được thực hiện. Tương tự người ta cần phải mua giấy phép để chạy Microsoft Word, người sử dụng phải có giấy phép hợp pháp khi sử dụng mã nguồn Unix của chúng tôi".
+Tất cả điều này có ý nghĩa là gì ?
+Cho đến bây giờ, SCO chưa có hành động gì để chống lại người sử dụng Linux hay AIX. Những luận cứ của hãng này vẫn chưa được kiểm tra. IBM và cộng đồng mã nguồn mở vẫn tiếp tục phát triển và hỗ trợ AIX và Linux, cho nên việc sử dụng hệ điều hành mở này vẫn sẽ không bị ảnh hưởng. Tuy nhiên, đà phát triển của Linux có thể sẽ bị chậm lại nếu như người sử dụng trì hoãn hoặc huỷ bỏ việc cài đặt Linux. Chỉ có Microsoft là sẽ mỉm cười vui vẻ.
+Khi nào thì vấn đề này được giải quyết ?
+Vụ kiện của SCO chống lại IBM chỉ bắt đầu được toà án xử lý vào tháng 4 năm 2005. Câu hỏi đặt ra cho ngành CNTT là nó có thể chờ đợi thêm 18 tháng nữa để thoát khỏi tình trạng rối ren này hay không. Tại thời điểm này, chưa có bên nào, SCO hay IBM cho thấy dấu hiệu nhượng bộ.
+Các chuyên gia nói gì ?
+"Khi bạn nhìn vào mã nguồn của Linux bạn sẽ thấy nó sao chép từng hàng một mã của Unix System V, không chỉ mã chương trình mà ngay cả các ghi chú cũng được sao chép y chang", Darl McBride, giám đốc điều hành SCO, phát biểu.
+"Họ là những kẻ tống tiền", Linus Torvards, cha đẻ Linux.
+"Đơn giản SCO là một công ty của bọn luật sư", Ron Wohl, nhà phát triển của Oracle.
+"SCO đang cố làm trật đường ray con tàu Linux", Andy Butler, giám đốc nghiên cứu hãng Gartner.
+"Chúng tôi sẽ mặc kệ những yêu cầu của SCO và sẽ chờ đợi xem điều gì sẽ xảy ra", Andrian James, giám đốc CNTT tại Reliance Mutual, một khách hàng của Red Hat.
+"Không giống như SCO, IBM rất cẩn trọng trong từng lời nói để tránh các tuyên bố gây kích động. Cho nên khi IBM bắt đầu tấn công dồn dập thì đó là một hành động được chuẩn bị rất kĩ càng và chắc chắn sẽ được thực hiện một cách cẩn thận", Gary Barnett, nhà tư vấn hãng Ovum.
+"SCO đã đưa khách hàng của chúng tôi vào tình thế này. Họ đe dọa và tống tiền khách hàng của Red Hat bằng các luận điểm không có cơ sở...", Matthew Szulik, chủ tịch Red Hat.
+"Chúng tôi hoan nghênh nỗ lực của Red Hat chống lại những lời nói khoa trương rỗng tuếch của SCO và cả nỗi sợ hãi, sự ngờ vực mà công ty này đang cố reo giắc khắp nơi", phát biểu của nhà sản xuất SuSE Linux.

@@ -1,0 +1,8 @@
+Các nhà phát triển tại công tyRedHatvừa đưa ra phiên bản nâng cấp cho phần mềm máy chủApachephiên bản 2.x đang hoạt động trên các hệ thống đang sử dụng RedHat 8.0 và 9. Các nhà quản trị nên nâng cấp phần mềm máy chủ Apache để tránh các nguy cơ bảo mật có thể xảy ra với hệ thống của mình
+Phiên bản Apache nâng cấp này chỉnh sửa một số lỗi bảo mật được phát hiện trong các phiên bản 2.0.35 đến 2.0.46. Các lỗi bảo mật này bao gồm: tấn công từ chối dịch vụ (Denied of Services), lỗi liên quan đến module mod_ssl,...
+Phiên bản bị lỗi
+- Apache phiên bản 2.x đi kèm với hệ điều hành RedHat Linux 8.0 - i386
+- Apache phiên bản 2.x đi kèm với hệ điều hành RedHat Linux 9 - i386
+Bản sửa lỗi:
+- RedHat Linux 8.0:+SRPMS:ftp://updates.redhat.com/8.0/en/os/SRPMS/httpd-2.0.40-11.7.src.rpm+ i386:ftp://updates.redhat.com/8.0/en/os/i386/httpd-2.0.40-11.7.i386.rpmftp://updates.redhat.com/8.0/en/os/i386/httpd-devel-2.0.40-11.7.i386.rpmftp://updates.redhat.com/8.0/en/os/i386/httpd-manual-2.0.40-11.7.i386.rpmftp://updates.redhat.com/8.0/en/os/i386/mod_ssl-2.0.40-11.7.i386.rpm
+-RedHat Linux 9+SRPMS:ftp://updates.redhat.com/9/en/os/SRPMS/httpd-2.0.40-21.5.src.rpm+i386:ftp://updates.redhat.com/9/en/os/i386/httpd-2.0.40-21.5.i386.rpmftp://updates.redhat.com/9/en/os/i386/httpd-devel-2.0.40-21.5.i386.rpmftp://updates.redhat.com/9/en/os/i386/httpd-manual-2.0.40-21.5.i386.rpmftp://updates.redhat.com/9/en/os/i386/mod_ssl-2.0.40-21.5.i386.rpm

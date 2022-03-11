@@ -1,0 +1,18 @@
+Cách gửi và xử lý địa chỉ Internet dạng URL trong E-mail ?
+Cách này chỉ áp dụng cho môi trường Windows, bộ trình duyệt IE, phần mềm thư tín điện tử Outlook. Khi truy cập đến một địa chỉ Web site hữu ích nào đó và chúng ta muốn chia sẻ với bạn bè địa chỉ này thông qua E-mail. Cách thuận tiện nhất nên làm như sau:
+Chọn menu File.Send.Link by E-mail. Một E-mail mới sẽ được tạo trong đó phần Subject chứa dòng tiêu đề của trang Web, địa chỉ URL đầy đủ sẽ được chèn vào phần nội dung, và một tập tin dạng *.URL được tự động attach.
+Khi nhận thư người nhận chỉ cần nhấn chuột (mouse) vào địa chỉ URL là truy cập đến địa chỉ cần thiết. Ngoài ra chúng ta cũng có thể kéo (Drag) các liên kết trong mục Favorites của IE vào phần soạn thảo nội dung của E-mail.
+Do những hạn chế của phần mềm thư tín điện tử, hoặc cũng có khi do thiết lập chế độ hoạt động của phần mềm này chưa tốt, các địa chỉ Internet (URL) dài trong E-mail thường bị bẻ gãy thành nhiều đoạn. Cách khắc phục như sau:
+Ðánh dấu chọn và chép (copy) và bộ nhớ toàn bộ dòng địa chỉ URL. Khởi động phần mềm MS Word (hay bộ soạn thảo văn bản nào đó). Dán (Paste) địa chỉ URL vào văn bản. Thực hiện chức năng tìm và thay thế của bộ soạn thảo văn bản để thay tất cả các ký tự đại diện cho dấu xuống dòng (paragraph break) ^pin bằng ký tự khoảng trắng Space.
+Làm thế nào để ngăn chặn các spam ?
+Thư điện tử của các spam tương tự như hình thức chào hàng qua điện thoại. Cách thức này đôi khi khiến chúng ta khó chịu. Sau đây là một số phương pháp giúp bạn làm giảm số lượng các spam trong hộp thư của mình.
+Chiến lược ngăn chặn Spam
+Một bài báo có tiêu đềSpam Begoneđăng trên website của PCWorld đã giới thiệu một vài mẹo nhỏ rất thông dụng của tác giả Jim Welp. Vấn đề đầu tiên mà bạn nên làm là không nên trả lời các spam. Nhưng bằng cách nào đó, các spam vẫn tìm được địa chỉ email. Chúng liền gửi các tin nhắn được ngụy trang một cách khéo léo, tương tự như các tin thư đáng tin cậy. Chắc bạn đã từng thấy chúng hiện diện trong hộp thư của bạn – chúng không hề loè loẹt và chứa rất nhiều biểu hình.
+Chúng không bán bất kỳ thứ gì cho bạn, thậm chí chúng còn hướng dẫn bạn cách thức để tránh các tin thư không mong muốn. Bên cạnh đó, chúng có thể lôi kéo bạn vào các trang khác, nhưng bạn nên cẩn thận: đó có thể là những dụng ý không tốt.
+Bạn chỉ nên mở những tin thư mà bạn biết rõ về nguồn gốc và đã đăng ký chúng. Cách duy nhất bạn có thể thực hiện được là hãy học cách lọc tin thư.
+Lọc các Spam
+Sau đây là một vài bài báo viết về cách thức lọc các tin thư, hình thức hoạt động của chúng và một vài đặc điểm sử dụng. Chúng ta hãy bắt đầu với “Mẹo vặt cho OfficeXP. Tổ chức Outlook E-Mail”, hướng dẫn điều chỉnh các thư mục và quy luật. Một bài báo khác có tiêu đề “Thuần phục hộp thư”, giới thiệu về cách thức lọc thư tại Outlook, Outlook Express, Eudora, AOL và Netscape. Tiếp đến là bài “Có Spam ư? Đây là phương pháp để ngăn chặn chúng” cũng viết về đề tài này.
+Các Spam thường được gửi đi với phương thức giả mạo tên miền theo địa chỉ cũ cùng với tiêu đề linh tinh ví dụ, một tin tặc đã gửi các spam với tiêu đề “Một người đàn ông ở nơi hoang dã”. Ông ta muốn “truy cập Internet, biết về sự tiến bộ của mạng TCP/IP và bảo mật Internet”.
+Đọc tin này, chúng ta sẽ biết cách ông ta tạo ra các spam đắt giá như thế nào. Bên cạnh đó, chúng ta còn thấy được một cái nhìn khác biệt, với các chi tiết được tìm hiểu một cách rõ ràng – trong thế giới của spam.
+Công cụ chống lại Spam
+Một trong những công cụ hữu hiệu nhất là chương trìnhSamSpade. Món quà này rất có ý nghĩa. Chương trình này sẽ giải mã các URL, tìm kiếm các chủ nhân trang web và kiểm tra các địa chỉ thư điện tử.

@@ -1,0 +1,24 @@
+TT - Việc quản lý e-mail sẽ trở nên dễ dàng hơn với chức năng miễn phí “Check Other Mail” của Yahoo! Mail. Chức năng này cho phép bạn kiểm tra các địa chỉ POP mail khác như VNN, FPT, Netnam hay mail server riêng của công ty bạn... ngay trong hộp thư Yahoo! Mail.
+Lưu ý: Bạn chỉ có thể lưu trữ tối đa 3 tài khoản khác nhau cùng một lúc trên Yahoo! Mail. Chức năng này của Yahoo! chỉ hỗ trợ POP mail, không hỗ trợ các webmail như Hotmail, Gotmail, Movemail...
+Cách khai báo thông số
+1. Ðăng nhập vào địa chỉ e-mail của bạn tại Yahoo, sau đó nhấp chuột vào “Options” ở khung phía trái.
+2. Nhấp vào “Check (Other POP) Mail”.
+3. Vào mục “Add Mail Server”.
+4. Nhập vào địa chỉ mail server, username và password của account e-mail.
+- Tên của mail server thông thường là tên của phần incoming mail bạn khai báo trong Outlook Express. Vào Tools/ Account/ Properties/Servers/Incoming mail để xem.
+- Port number: Mặc định là 110.
+- Username: Là phần đầu địa chỉ e-mail của bạn trước ký hiệu @.
+- Password là phần password bạn đã đăng ký với các ISP để nhận mail. Lưu ý không phải là password của Yahoo! Mail.
+Các chức năng khác:
+1. “Leave Mail on POP Server”: Chọn chức năng này Yahoo! sẽ giữ nguyên e-mail của bạn trên server mà không xóa đi sau khi tải về hộp thư của Yahoo. Bạn vẫn có thể dùng Outlook Express tải về sau đó.
+2. “Retrieve new messages only”: Yahoo! sẽ chỉ lấy về e-mail chưa đọc mà thôi.
+3. “Download to Folder”: Có thể dùng chức năng này để tải thư về một vị trí khác trong hộp thư Yahoo! của bạn. Mặc định là tải về Inbox.
+Bạn có thể chọn các màu khác nhau cho các account khác nhau theo bảng màu ở phần Indicator để dễ dàng phân biệt account nào vừa có e-mail mới.
+Nhấp OK. Lập lại các bước trên nếu bạn cần thêm vào một account mới.
+Ðể kiểm e-mail, mỗi lần đăng nhập vào Yahoo!, bạn nhấp vào “check other mail”. Nếu chỉ có 1 account, Yahoo! sẽ tải ngay e-mail mới vào Inbox cho bạn. Nếu có 2 account trở lên, Yahoo! sẽ hỏi bạn muốn chọn tài khoản nào để kiểm mail.
+Các mail server phổ biến ở TPHCM
+- VNN: mail.hcm.vnn.vn
+- FPT: imail.hcm.fpt.vn
+- FPTnet: mail.fptnet.com.vn
+- Netnam: pop.hcmc.netnam.vn
+- Saigonnet: mailserver.saigon net.vn

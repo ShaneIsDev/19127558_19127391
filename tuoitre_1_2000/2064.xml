@@ -1,0 +1,15 @@
+- Với Windows XP, bạn có thể biến ổ ghi đĩa của mình thành một ổ lưu trữ giống như ổ cứng - tác vụ mà trước đây cần phải sử dụng một phần mềm khác như DirectCD... để thực hiện. Ngay từ cửa sổ Windows Explorer hay My Computer, bạn có thể ghi thẳng các file lên một đĩa CD-R hay CD-RW.
+Dĩ nhiên là máy bạn cần phải có một ổ ghi đĩa mới được. Ghi rất nhanh (tùy tốc độ ổ ghi) và đơn giản, hỗ trợ kéo và thả (drag-and-drop). Bạn có thể xóa trắng đĩa (đối với đĩa CD-RW), ghi thêm dữ liệu nhiều phiên (multi-sessions)... Các đĩa ghi bằng Windows XP này có thể đọc dễ dàng với những máy khác.
+Có hai cách ghi dữ liệu thẳng lên đĩa CD:
+1. Mở Windows Explorer, chọn file hay thư mục muốn ghi, rồi dùng trỏ chuột nắm cổ lôi chúng thả vào tên ổ CD-RW ở cột bên trái.
+2. Hoặc click chuột phải lên tên file và chọn lệnh Send to để gửi tới ổ CD-R hay CD-RW.
+Trước khi ghi, Windows XP lưu trữ các file sắp ghi trong thư mục Documents and settings\(ten login user)\Local settings\Application data\Microsoft\cd burning\
+Sau khi Windows copy xong các file vào thư mục đệm, một “quả bóng” xuất hiện trong khay đồng hồ. Bạn click vào đó để xem các file đã được chuẩn bị ghi.
+Click lên mục Write these files to CD (ghi các file này tới CD) để bắt đầu ghi.
+Nếu không kịp click lên “quả bóng” này để nó biến mất, hay trong trường hợp muốn ghi vào một thời điểm sau này, bạn chỉ việc mở Windows Explorer, click đôi chuột lên tên của ổ ghi.
+Trong cửa sổ ổ ghi, nhấp lên menu File và chọn lệnh Write these files to CD (ghi các file này tới CD) để ghi các file này lên đĩa CD. Nếu đổi ý muốn bỏ file nào thì tô chọn file đó và chọn lệnh Delete temporary files (xóa các file tạm) để xóa nó khỏi thư mục tạm.
+Click nút Next để tiếp tục.
+Có thể đặt tên cho CD. Click nút Next để bắt đầu ghi.
+Sau khi ghi xong, ổ ghi sẽ tự động đẩy đĩa ra (nếu bạn thiết đặt thông số mặc định). Một thông báo xuất hiện hỏi bạn muốn kết thúc hay ghi các data vừa chọn lên một CD khác.
+Nếu muốn kết thúc, nhấn nút Finish.
+Nếu muốn ghi tiếp, đánh dấu chọn vào mục Yes, write these files to another CD (vâng, hãy ghi các file này tới một CD khác), rồi click nút Next. Lúc này trong ổ ghi cần có sẵn một đĩa CD trắng.

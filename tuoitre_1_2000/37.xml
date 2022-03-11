@@ -1,0 +1,15 @@
+Unikey 3.55: giữ nguyên định dạng khi chuyển mã tiếng Việt Phóng to
+Đối với phiên bản cũ, văn bản khi chuyển đổi sang Unicode sẽ mất các thuộc tính đậm, nghiêng hay các thuộc tính Style. Đặc biệt, văn bản có bảng (table) sẽ bị chuyển sang thuần văn bản, và các khuôn dạng bảng bị mất. Phiên bản Unikey 3.55 cho phép chuyển đổi toàn bộ văn bản có nhiều thuộc tính sang Unicode và vẫn giữ nguyên các thuộc tính này.
+Ngoài ra, UniKey 3.55 cũng có thể chuyển mã file RTF do Word tạo ra và phần chuyển đổi cũng có thêm khả năng chuyển chữ hoa-thường, xóa dấu.
+Cách chuyển mã tiếng Việt bằng UniKey
+Sau khi chạy UniKey, bạn nhấn tổ hợp phím Ctrl+Shift+F6 để mở UniKey Tookit, công cụ chuyển mã tiếng Việt của UniKey.
+Sau khi đã mở hộp thọai của UniKey Toolkit, bạn chọn bảng mã nguồn, bảng mã đích cũng như các tùy chọn Sang chữ hoa, Lọai bỏ dấu...Ví dụ bạn muốn chuyển nội dung file PageMarker từ font BK HCM2 sang Unicode thì bạn chọn bảng mã nguồn là BK HCM2, bảng mã đích là Unicode.
+Unikey có 2 cách chuyển mã:
+* Chuyển mã bằng Clipboard :
+Tiện dụng nhất là sử dụng dạng clipboard. Bạn chỉ việc tô chọn phần văn bản muốn chuyển (dài nhiều trang cũng được), nhấn tổ hợp phím Ctrl+C để copy vào clipboard rồi nhấn tiếp tổ hợp phím Ctrl+Shift+F9 để chuyển mã ( nếu bạn chưa chọn bảng mã nguồn, bảng mã đích, nhấn tổ hợp phím Ctrl+Shift+F6 mở hộp thọai UniKey Toolkit để chọn bảng mã thích hợp).
+* Chuyển mã file :
+Trong trường hợp muốn chuyển mã các file (chỉ hỗ trợ file text .TXT và file .RTF), bạn xóa dấu kiểm ở dòng “Chuyển mã clipboard”. Nhấn nút có hình kẹp hồ sơ bên phải hộp File nguồn để chọn file muốn chuyển font. Làm tương tự ở hộp File đích để chọn nơi lưu trữ và đặt tên cho file mới sắp chuyển sang.
+Nhấn nút Chuyển mã để Unikey thực hiện việc chuyển mã.
+Download
+Unikey là chương trình mã nguồn mở tuân theoGeneral Public License, bạn có thể download mã nguồn của chương trình và chỉnh sửa tùy thích theo ý mình.
+Truy cập vào website chính thức của Unikey tạiđâyđể download Unikey 3.55, cũng như mã nguồn của chương trình và cập nhật các thông tin mới nhất về Unikey.
